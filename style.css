@@ -232,7 +232,7 @@ body::after {
   position: relative;
   background: var(--panel-bg);
   clip-path: var(--pixel-clip);
-  padding: 32px 16px 30px;
+  padding: 32px 16px 60px;
 }
 
 .btn-dex {
