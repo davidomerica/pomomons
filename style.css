@@ -227,12 +227,12 @@ body::after {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 8px;
+  gap: 16px;
   width: 100%;
   position: relative;
   background: var(--panel-bg);
   clip-path: var(--pixel-clip);
-  padding: 20px 16px 14px;
+  padding: 32px 16px 30px;
 }
 
 .btn-dex {
